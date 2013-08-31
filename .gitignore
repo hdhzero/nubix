@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+# imgs
+*.img
+a.out

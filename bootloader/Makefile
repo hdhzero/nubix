@@ -10,4 +10,4 @@ bootloader:
 	mv bootloader.bin bootloader.img
 
 clean:
-	rm *.bin *.o *.img
+	rm -rf *.bin *.o *.img
